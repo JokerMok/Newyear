@@ -1,0 +1,8 @@
+{
+  "name": "2026: Era of the Palm",
+  "description": "Interactive 3D Art. Countdown, Text Fireworks, and Optical Fiber weaving controlled by hand gestures.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
